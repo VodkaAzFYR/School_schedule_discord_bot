@@ -12,6 +12,7 @@ daytonum = {
     "czw": 3,
     "pt": 4,
 }
+#TODO Add Phone push notification
 
 bot = commands.Bot(command_prefix='$')
 @bot.command()
