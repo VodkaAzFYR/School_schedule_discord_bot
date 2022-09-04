@@ -35,4 +35,4 @@ async def plan_z(ctx,arg):
         await ctx.send(f'Cześć <@{ctx.message.author.id}>, lekcje w {arg} to **{lessons[:-2]}** :wink:')
     except Exception:
         await ctx.send("Niestety wystąpił błąd :disappointed_relieved:, spróbuj ponownie")
-bot.run('MTAxNTY1OTUyNjY3MTgzNTE1Ng.GxRNAm.bLZuYti9wUhydyNcDpO2WdC1aQRyjaYP3sMd0I')
+bot.run('TOKEN')
