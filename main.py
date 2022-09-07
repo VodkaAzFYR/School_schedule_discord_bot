@@ -67,4 +67,4 @@ async def plan_z(ctx,arg):
     except Exception as e:
         print(e)
         await ctx.send("Niestety wystąpił błąd :disappointed_relieved:, spróbuj ponownie")
-bot.run('MTAxNTY1OTUyNjY3MTgzNTE1Ng.G0J5cT.YXsRMphnmnyqaf0X9-AyrwU3YIP5L7mfwinfB8')
+bot.run('')
